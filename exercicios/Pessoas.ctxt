@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pessoas
+comment1.params=
+comment1.target=double\ retorna_imc()
+comment2.params=i
+comment2.target=void\ seta_idade(int)
+comment3.params=
+comment3.target=double\ retorna_idade()
+comment4.params=p
+comment4.target=void\ seta_peso(double)
+comment5.params=
+comment5.target=double\ retorna_peso()
+comment6.params=n
+comment6.target=void\ seta_nome(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ retorna_nome()
+comment8.params=a
+comment8.target=void\ seta_altura(double)
+comment9.params=
+comment9.target=double\ retorna_altura()
+numComments=10
